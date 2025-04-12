@@ -51,4 +51,8 @@ Antes de exportar, asegúrate de tener las plantillas necesarias:
    - `Proyecto` → `Exportar...` → Selecciona Android → Exportar  
 
 
+### **4. LINK (APK)** 
+  - Descarga el APK debido al peso mayor a 25MB [Link Drive](https://drive.google.com/file/d/1cNBbziyxxj3pvwnrsWAUxWLJm-zmbBF1/view?usp=sharing)  
+
+
 
